@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/json-path-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Rest assure/rest-assured-3.3.0-dist/rest-assured-3.3.0-dep/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/Poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/SELENIUM_JARS/extentreports-java-2.41.2/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Restassured/SeleniumJars/selenium-server-standalone-3.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
